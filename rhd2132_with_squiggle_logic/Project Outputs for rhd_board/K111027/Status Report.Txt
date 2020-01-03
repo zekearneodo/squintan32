@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : PCB Document [rhd_board_rev1_2.PcbDoc]
+   Generated File[rhd_board_rev1_2.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:13:41 On 06.11.2019

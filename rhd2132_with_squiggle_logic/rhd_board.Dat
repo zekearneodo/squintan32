@@ -1,0 +1,14 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~rhd_board.PrjPcb|ReportField=ProjectFullPath~D:\microdrive++\rhd2132_with_squiggle_logic\rhd_board.PrjPcb|ReportField=Title~Bill of Materials For Project [rhd_board.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~11:22:19|ReportField=ReportDate~31.07.2018|ReportField=ReportDateTime~31.07.2018 11:22:19|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~28|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~30.07.2018|ReportField=CurrentTime~21:22:38|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\microdrive++\rhd2132_with_squiggle_logic\rhd_board.SchDoc|ReportField=DocumentName~rhd_board.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~30.07.2018|ReportField=Organization~|ReportField=ProjectName~rhd_board.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~rhd_board.PrjPcb|ReportField=DataSourceFullPath~D:\microdrive++\rhd2132_with_squiggle_logic\rhd_board.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|PCB Test Point||AI, AI2, AI3, DO, GND, REF, VDD|TESTPOINT_SMALL|TESTPOINT_SMALL|7
+2|Capacitor||C1, C2|0402-SMALL|C_0201-SMALL|2
+3|470n|Capacitor|C7, C9, C10, C11, C12|CAPC0603X03L|Cap-0201|5
+4|10u|Capacitor|C8|CAPC1608X09L|Cap-0603|1
+5|NSD-2101||D0|BGA16C40P4X4_175X175X63|NSD-2101|1
+6|NSE-5310_FC||D1|NSE-5310_FC|NSE-5310_FC|1
+7|sql-rv-1.8-6-12|Squiggle motor|piezo-drive|sql-rv-1.8-6-12|sql-rv-1.8-6-12|1
+8|2-2||PS-, PS+|KP-025-04|KP-025X04|2
+9|Resistor||R0, R1, R2, R3|0201-SMALL|R_0201-SMALL|4
+10|0|Resistor|R15|RESC0603X03L|Res-0201|1
+11|Omnetics_PZN-16-DD||S|OMNETICS_PZN-16-DD|Omnetics_PZN-16-DD|1
+12|Molex 3.5mm Pitch Slimstack 34 pin connector||S1|MOLEX_504618-3410|MOLEX_504618-3410|1
+13|Intan Technologies RHD2132 chip||U0|RHD2000_56PIN_COB|RHD2132_COB|1

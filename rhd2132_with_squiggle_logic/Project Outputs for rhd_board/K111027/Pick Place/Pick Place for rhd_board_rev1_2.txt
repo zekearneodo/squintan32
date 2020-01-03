@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+D:\repos\driveithome\rhd2132_with_squiggle_logic\Project Outputs for rhd_board\K111027\Pick Place\Pick Place for rhd_board_rev1_2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       06.11.19
+Time:       18:13
+Revision:   f37b52aff6bcddea8ec30d4ef32fc51d4ae38ffa
+Variant:    No variations
+Units used: mil
+
+Designator  Comment                                        Layer       Footprint               Center-X(mil) Center-Y(mil) Rotation Description                                            
+gnd-u       "PCB Test Point"                               TopLayer    TESTPOINT_SMALL         229.823       71.850        90       ""                                                     
+vcc-u       "PCB Test Point"                               TopLayer    TESTPOINT_SMALL         202.756       90.748        90       ""                                                     
+piezo-drive sql-rv-1.8-6-12                                BottomLayer sql-rv-1.8-6-12         99.999        267.716       360      "Squiggle motor"                                       
+S0          Omnetics_PZN-16-DD                             TopLayer    OMNETICS_PZN-16-DD      0.690         -209.642      180      ""                                                     
+C1          Capacitor                                      TopLayer    0402                    69.685        101.736       270      "ceramic capacitor (25 V). For pwer supply decoupling" 
+S1          "Molex 3.5mm Pitch Slimstack 34 pin connector" TopLayer    MOLEX_504622-3412       -3.939        467.893       360      ""                                                     
+DO          "PCB Test Point"                               TopLayer    TESTPOINT_SMALL         153.937       135.138       90       ""                                                     
+U0          "Intan Technologies RHD2132 chip"              TopLayer    RHD2000_56PIN_COB       7.872         282.834       0        ""                                                     
+VDD         "PCB Test Point"                               TopLayer    TESTPOINT_SMALL         153.937       109.449       90       ""                                                     
+REF         "PCB Test Point"                               TopLayer    TESTPOINT_SMALL         -152.685      273.622       90       ""                                                     
+R3          Resistor                                       TopLayer    0201                    9.500         127.067       360      "100ohm resistor for lvds pair in 64ch"                
+R2          Resistor                                       TopLayer    0201                    -11.417       57.776        360      "100ohm resistor for lvds pair in 64ch"                
+R1          Resistor                                       TopLayer    0201                    -53.740       112.697       270      "100ohm resistor for lvds pair in 64ch"                
+R0          Resistor                                       TopLayer    0402                    -165.650      215.453       90       "resistor 0ohm"                                        
+PS-         2-2                                            TopLayer    KP-025-04               -134.629      48.209        180      ""                                                     
+PS+         2-2                                            TopLayer    KP-025-04               -134.629      24.931        180      ""                                                     
+GND         "PCB Test Point"                               TopLayer    TESTPOINT_SMALL         -162.303      156.890       90       ""                                                     
+D1          NSE-5310_FC                                    BottomLayer NSE-5310_FC             257.205       238.976       90       ""                                                     
+D0          NSD-2101                                       BottomLayer BGA16C40P4X4_175X175X63 246.063       411.418       180      ""                                                     
+C11         10u                                            BottomLayer CAPC1608X09L            268.406       108.957       360      Capacitor                                              
+C10         470n                                           BottomLayer CAPC0603X03L            293.307       348.425       360      Capacitor                                              
+C9          470n                                           BottomLayer CAPC0603X03L            234.252       348.425       360      Capacitor                                              
+C8          10u                                            BottomLayer CAPC1608X09L            255.906       484.252       180      Capacitor                                              
+C7          470n                                           BottomLayer CAPC0603X03L            309.055       411.417       270      Capacitor                                              
+C2          Capacitor                                      TopLayer    0201                    122.736       112.205       270      "ceramic 16v"                                          
+AI          "PCB Test Point"                               TopLayer    TESTPOINT_SMALL         -162.598      124.213       0        ""                                                     
+AI3         "PCB Test Point"                               TopLayer    TESTPOINT_SMALL         -91.634       135.138       90       ""                                                     
+AI2         "PCB Test Point"                               TopLayer    TESTPOINT_SMALL         -118.406      135.138       90       ""                                                     

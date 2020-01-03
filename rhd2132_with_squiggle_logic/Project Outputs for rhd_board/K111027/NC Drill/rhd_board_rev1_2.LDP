@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\repos\driveithome\rhd2132_with_squiggle_logic\rhd_board_rev1_2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rhd_board_rev1_2.txt|DrillLayers=gtl,g1,gbl
+LayersSetName=Top_GND_Blind_Vias|DrillFile=rhd_board_rev1_2.tx1|DrillLayers=gtl,g1
+LayersSetName=GND_Bottom layer_Blind_Vias|DrillFile=rhd_board_rev1_2.tx2|DrillLayers=g1,gbl

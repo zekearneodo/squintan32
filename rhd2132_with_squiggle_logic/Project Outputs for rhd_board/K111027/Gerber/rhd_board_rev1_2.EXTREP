@@ -1,0 +1,48 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: rhd_board_rev1_2.GBR   06.11.2019  18:13:23
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GTP                Top Paste                               
+.GPB                Bottom Pad Master                       
+.G1                 GND                                     
+.GPT                Top Pad Master                          
+.GBL                Bottom layer                            
+.GTO                Top Overlay                             
+.GTS                Fotolack                                
+.GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM22               Top assembly                            
+.GM6                layer_stack_table                       
+.GM10               board_outline                           
+.GBP                Bottom Paste                            
+.GM8                Mechanical 8                            
+.GM11               bend_regions                            
+.GM32               Bottom assembly                         
+.GM2                Mechanical 2                            
+.GM3                Mechanical 3                            
+.GM4                Mechanical 4                            
+.GM1                Mechanical 1                            
+.GM13               Mechanical 13                           
+.GM5                Mechanical 5                            
+.GM15               Mechanical 15                           
+.GM26               Mechanical 26                           
+.GML                Multi-Layer                             
+.1                  Dielectric 1                            
+.GM23               Mechanical 23                           
+.4                  Adhesive 1                              
+.GM16               Mechanical 16                           
+.5                  Dielectric 2                            
+.6                  Adhesive 2                              
+.GD1                Drill Drawing                           
+.GD2                Drill Drawing                           
+.GD3                Drill Drawing                           
+.GG1                Drill Guide                             
+.GG2                Drill Guide                             
+.GG3                Drill Guide                             
+------------------------------------------------------------------------------------------

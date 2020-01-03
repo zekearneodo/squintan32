@@ -1,0 +1,605 @@
+*************************************************************
+FileName = rhd_board_rev1_2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Adhesive 1
+      File : rhd_board_rev1_2.4
+
+    Adding Layer      : Adhesive 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : rhd_board_rev1_2.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 26
+      File : rhd_board_rev1_2.GM26
+
+    Adding Layer      : Mechanical 26
+
+
+Used DCodes :
+    D12
+    D41
+    D42
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : rhd_board_rev1_2.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D12
+    D42
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Fotolack
+      File : rhd_board_rev1_2.GTS
+
+    Adding Layer      : Fotolack
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Adhesive 2
+      File : rhd_board_rev1_2.6
+
+    Adding Layer      : Adhesive 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 23
+      File : rhd_board_rev1_2.GM23
+
+    Adding Layer      : Mechanical 23
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : rhd_board_rev1_2.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : rhd_board_rev1_2.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : rhd_board_rev1_2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : rhd_board_rev1_2.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : rhd_board_rev1_2.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D37
+    D39
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : rhd_board_rev1_2.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : layer_stack_table
+      File : rhd_board_rev1_2.GM6
+
+    Adding Layer      : layer_stack_table
+
+
+Used DCodes :
+    D12
+    D71
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : rhd_board_rev1_2.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : rhd_board_rev1_2.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : rhd_board_rev1_2.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 8
+      File : rhd_board_rev1_2.GM8
+
+    Adding Layer      : Mechanical 8
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : rhd_board_rev1_2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : rhd_board_rev1_2.GPB
+
+    Adding Layer      : Bottom layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+    D47
+    D48
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Top assembly
+      File : rhd_board_rev1_2.GM22
+
+    Adding Layer      : Top assembly
+
+
+Used DCodes :
+    D12
+    D42
+    D71
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Bottom layer
+      File : rhd_board_rev1_2.GBL
+
+    Adding Layer      : Bottom layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D38
+    D42
+    D43
+    D45
+    D46
+    D47
+    D48
+    D49
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : rhd_board_rev1_2.5
+
+    Adding Layer      : Dielectric 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : rhd_board_rev1_2.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : rhd_board_rev1_2.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : rhd_board_rev1_2.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : rhd_board_rev1_2.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : rhd_board_rev1_2.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : bend_regions
+      File : rhd_board_rev1_2.GM11
+
+    Adding Layer      : bend_regions
+
+
+Used DCodes :
+    D42
+    D76
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : rhd_board_rev1_2.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D37
+    D38
+    D39
+    D40
+    D45
+    D46
+    D47
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Bottom assembly
+      File : rhd_board_rev1_2.GM32
+
+    Adding Layer      : Bottom assembly
+
+
+Used DCodes :
+    D12
+    D13
+    D37
+    D41
+    D42
+    D72
+*************************************************************
+
+*************************************************************
+Generating : board_outline
+      File : rhd_board_rev1_2.GM10
+
+    Adding Layer      : board_outline
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : rhd_board_rev1_2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : rhd_board_rev1_2.GD1
+
+    Adding Drill Pair : Top Layer-Bottom layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D72
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : rhd_board_rev1_2.GD2
+
+    Adding Drill Pair : Top Layer-GND
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : rhd_board_rev1_2.GD3
+
+    Adding Drill Pair : GND-Bottom layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : rhd_board_rev1_2.GG1
+
+    Adding Drill Pair : Top Layer-Bottom layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : rhd_board_rev1_2.GG2
+
+    Adding Drill Pair : Top Layer-GND
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : rhd_board_rev1_2.GG3
+
+    Adding Drill Pair : GND-Bottom layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D72
+*************************************************************
+
